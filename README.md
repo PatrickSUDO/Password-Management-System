@@ -1,7 +1,3 @@
-# Password-Management-System
-A simple password management system written by shell script
-
-
 Password Management System
 ===
 
